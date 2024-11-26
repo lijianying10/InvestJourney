@@ -26,7 +26,7 @@ Starting with a simple approach, the data computation is divided into the follow
 
 This is a very rough result and not highly accurate. However, we have at least set up the infrastructure, layered computation, and data visualization.
 
-[result](images/1.png)
+![result](images/1.png)
 
 ## 目标
 
@@ -56,4 +56,4 @@ This is a very rough result and not highly accurate. However, we have at least s
 这是一个非常粗糙的结果. 识别并不准确. 
 不过还好把基础设施和分层计算, 数据可视化准备好了. 
 
-[result](images/1.png)
+![result](images/1.png)
